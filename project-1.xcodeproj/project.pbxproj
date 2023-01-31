@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		32437200298960E600491564 /* PersonCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 324371FF298960E600491564 /* PersonCell.swift */; };
 		324EBE7F29420D3100B1D646 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 324EBE7E29420D3100B1D646 /* DetailViewController.swift */; };
 		324EBE8B294282FE00B1D646 /* nssl0049.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 324EBE81294282FE00B1D646 /* nssl0049.jpg */; };
 		324EBE8C294282FE00B1D646 /* nssl0046.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 324EBE82294282FE00B1D646 /* nssl0046.jpg */; };
@@ -27,6 +28,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		324371FF298960E600491564 /* PersonCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonCell.swift; sourceTree = "<group>"; };
 		324EBE7E29420D3100B1D646 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		324EBE81294282FE00B1D646 /* nssl0049.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0049.jpg; sourceTree = "<group>"; };
 		324EBE82294282FE00B1D646 /* nssl0046.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0046.jpg; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 				325ADB0F29414FC4006FC6BF /* ViewController.swift */,
 				324EBE7E29420D3100B1D646 /* DetailViewController.swift */,
 				325ADB1129414FC4006FC6BF /* Main.storyboard */,
+				324371FF298960E600491564 /* PersonCell.swift */,
 				325ADB1429414FC5006FC6BF /* Assets.xcassets */,
 				325ADB1629414FC5006FC6BF /* LaunchScreen.storyboard */,
 				325ADB1929414FC5006FC6BF /* Info.plist */,
@@ -190,6 +193,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				325ADB1029414FC4006FC6BF /* ViewController.swift in Sources */,
+				32437200298960E600491564 /* PersonCell.swift in Sources */,
 				325ADB0C29414FC4006FC6BF /* AppDelegate.swift in Sources */,
 				325ADB0E29414FC4006FC6BF /* SceneDelegate.swift in Sources */,
 				324EBE7F29420D3100B1D646 /* DetailViewController.swift in Sources */,
